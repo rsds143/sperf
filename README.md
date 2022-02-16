@@ -1,5 +1,7 @@
 # sperf diagnostic tooling
 
+NOTE: I no longer will be working at DataStax and the tool is deprecated internally there so I am archiving the tool. Apologies to all that still find it useful.
+
 [User documentation](https://datastax-toolkit.github.io/sperf/)
 
 ![Python application](https://github.com/DataStax-Toolkit/sperf/workflows/Python%20application/badge.svg)
